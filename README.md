@@ -6,11 +6,23 @@
 
 **Modern • Secure • Scalable**
 
-[![Website](https://img.shields.io/badge/Website-cloudspart.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cloudspart.com)
-[![AI](https://img.shields.io/badge/AI-Automation%20%7C%20MLOps-8A2BE2?style=for-the-badge)](#-01-artificial-intelligence)
-[![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#-04-cloud-based-solutions)
-[![Security](https://img.shields.io/badge/Security-Zero%20Trust%20%7C%20SOC%202-1F6FEB?style=for-the-badge)](#-05-cloud-security)
-[![Status](https://img.shields.io/badge/Status-Available%20for%20projects-2EA043?style=for-the-badge)](#-contact--connect)
+<p align="center">
+  <a href="https://cloudspart.com/?utm_source=github_page">
+    <img src="https://img.shields.io/badge/Website-cloudspart.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="#ai">
+    <img src="https://img.shields.io/badge/AI-Automation%20%7C%20MLOps-8A2BE2?style=for-the-badge" alt="AI">
+  </a>
+  <a href="#cloud">
+    <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud">
+  </a>
+  <a href="#security">
+    <img src="https://img.shields.io/badge/Security-Zero%20Trust%20%7C%20SOC%202-1F6FEB?style=for-the-badge" alt="Security">
+  </a>
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/Status-Available%20for%20projects-2EA043?style=for-the-badge" alt="Status">
+  </a>
+</p>
 
 </div>
 
@@ -22,7 +34,7 @@
 
 We focus on three things on every project: **measurable outcomes**, **secure architecture** and **scalable delivery**.
 
-> 🌐 Official website: **[cloudspart.com](https://cloudspart.com)**
+> 🌐 Official website: **[cloudspart.com](https://cloudspart.com/?utm_source=github_page)**
 
 **Keywords:** AI Solutions · Machine Learning · MLOps · Web Development · Data Analytics · Business Intelligence · Cloud Migration · AWS · Azure · GCP · Cloud Security · Zero Trust · SOC 2 · DevOps · Kubernetes · Social Media Marketing
 
@@ -194,22 +206,12 @@ cloudspart
 
 | Channel | Details |
 |---------|---------|
-| 🌐 **Website** | [cloudspart.com](https://cloudspart.com) |
+| 🌐 **Website** | [cloudspart.com](https://cloudspart.com/?utm_source=github_page) |
 | 🏷️ **Company** | Cloudspart |
 | 💼 **Services** | AI · Data · Cloud Solutions |
-| 📩 **Inquiries** | Reach us through [cloudspart.com](https://cloudspart.com) |
+| 📩 **Inquiries** | Reach us through [cloudspart.com](https://cloudspart.com/?utm_source=github_page) |
 
-> Want to start a project? Visit **[cloudspart.com](https://cloudspart.com)** and tell us your goals — we'll build a secure, scalable and measurable solution around them.
-
----
-
-## 🚀 How to Use This as a GitHub Profile README
-
-1. Create a **new public repository** on GitHub named **exactly the same as your username** (e.g. username `cloudspart` → repo `cloudspart`).
-2. Tick **“Add a README file”** while creating it.
-3. Replace the repository's `README.md` with the contents of this file (paste it in or upload it).
-4. Commit the change — GitHub will now render this on your profile page at `https://github.com/<your-username>`.
-5. *(Optional)* To use it as a **service/repo README** instead, create a repo like `cloudspart-services` and use the same file there.
+> Want to start a project? Visit **[cloudspart.com](https://cloudspart.com/?utm_source=github_page)** and tell us your goals — we'll build a secure, scalable and measurable solution around them.
 
 ---
 
@@ -219,6 +221,6 @@ cloudspart
 
 *Modern • Secure • Scalable*
 
-[![Visit Website](https://img.shields.io/badge/Visit-cloudspart.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cloudspart.com)
+[![Visit Website](https://img.shields.io/badge/Visit-cloudspart.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cloudspart.com/?utm_source=github_page)
 
 </div>
